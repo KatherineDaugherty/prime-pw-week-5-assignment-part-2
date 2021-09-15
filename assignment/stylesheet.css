@@ -1,0 +1,20 @@
+body {
+  background-image: url('record.png');
+  background-repeat: repeat;
+  margin: 0;
+  padding: 1em;
+}
+
+header {
+  background-color: #216869;
+  text-align: center;
+
+}
+main {
+  background-color: #858585;
+}
+
+.List {
+  background-color: #4689EC;
+  text-align: center;
+}
